@@ -17,49 +17,49 @@ function App() {
       "name": "OPPO F21s Pro 5G phone",
       "price": "245.99",
       "description":"OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
-      "image": "/images/1.jpg"
+      "image": "/E-comm/images/1.jpg"
     },
     {
       "id": "102",
       "name": "PTron Newly Launched Tangent Sports headphone, 60Hrs Playtime",
       "price": "150",
       "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
-      "image": "./images/4.jpg"
+      "image": "/E-comm/images/4.jpg"
     },
     {
       "id": "103",
       "name": "Dell Inspiron 3511 Laptop",
       "price": "440",
       "description":"Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
-      "image": "./images/3.jpg"
+      "image": "/E-comm/images/3.jpg"
     },
     {
       "id": "104",
       "name": "Lenovo IdeaPad Slim Laptop",
       "price": "250",
       "description":"Lenovo IdeaPad Slim 311th Gen Intel Core i5-1135G7 | Speed: 2.4 GHz (Base) - 4.2 GHz (Max) | 4 Cores | 8 Threads | 8 MB Cache",
-      "image": "/images/7.jpg"
+      "image": "/E-comm/images/7.jpg"
     },
     {
       "id": "105",
       "name": "ASUS VivoBook 15 Laptop",
       "price": "767.96",
       "description":"ASUS VivoBook 15 15.6-inch (39.62 cm) HD, Dual Core Intel Celeron N4020, Thin and Light Laptop (4GB RAM/256GB SSD/Integrated Graphics/Windows 11 Home/Transparent Silver/1.8 Kg), X515MA-BR011W",
-      "image": "/images/6.jpg"
+      "image": "/E-comm/images/6.jpg"
     },
     {
       "id": "106",
       "name": "Campus Men's Maxico Running Shoes",
       "price": "10.99",
       "description":"The high raised back cover with extra padding.",
-      "image": "/images/5.jpg"
+      "image": "/E-comm/images/5.jpg"
     },
     {
       "id": "107",
       "name": "WRISTIO HD, Bluetooth Calling Smart Watch",
       "description":"Minix watches are exclusively designed to fulfill the advanced tech needs of today  generation.",
       "price": "15.99",
-      "image": "/images/2.jpg"
+      "image": "/E-comm/images/2.jpg"
     }
   ])
   const [searchResult,setSearchResult] = useState([])
