@@ -24,14 +24,14 @@ function App() {
       "name": "PTron Newly Launched Tangent Sports headphone, 60Hrs Playtime",
       "price": "150",
       "description": "Gigantic 60 + Hours of music playtime on a single charge; BT5.2 Wireless headphones with ENC (Environmental Noise Cancellation) Technology to enhance your voice quality over the voice calls",
-      "image": "/images/4.jpg"
+      "image": "./images/4.jpg"
     },
     {
       "id": "103",
       "name": "Dell Inspiron 3511 Laptop",
       "price": "440",
       "description":"Dell Inspiron 3511 11th Generation Intel Core i5-1135G7 Processor (8MB Cache, up to 4.2 GHz);Operating System: Windows 10 Home Single Language, English",
-      "image": "/images/3.jpg"
+      "image": "./images/3.jpg"
     },
     {
       "id": "104",
